@@ -1,7 +1,12 @@
 {
+  "scripts": {
+    "test": "echo \"Error: :bxno te st specified\" && exit 1"
+  },
   "dependencies": {
+    "axios": "^0.26.1",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.0",
+    "jest": "^27.5.1",
     "util": "^0.12.4"
   }
 }
